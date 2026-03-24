@@ -1,0 +1,98 @@
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    background: #B4D3D9;
+}
+
+.meta{
+
+    background:none ;
+    border:none ;
+    font-weight: bold;
+    font-family: verdana;
+    font-size: 18px;
+    color: darkred;
+    cursor: pointer;
+
+}
+
+.main{
+
+    height: 750px;
+    width: 500px;
+    border: 1px solid red;
+    border-radius: 15px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+
+p{
+
+    font-size: 35px;
+    font-family: verdana;
+    font-weight: bold;
+    margin-left: 170px;
+    color: red;
+    justify-content: center;
+
+}
+
+.csk{
+
+    color: white;
+    font-size: 25px;
+    margin-left: 100px;
+        justify-content: center;
+margin-top: -15px;
+}
+
+.pp{
+
+    height: 120px;
+    width: 350px;
+    border: 1px solid red;
+    border-radius: 15px;
+    margin-left: 70px;
+
+
+
+}
+
+h3{
+
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+
+.ccc{
+
+    color: white;
+    font-size: 15px;
+}
+
+.ppp{
+
+     height: 100px;
+    width: 350px;
+    border: 1px solid red;
+    border-radius: 15px;
+    margin-left: 70px;
+}
+
+.pppp{
+
+    height: 120px;
+    width: 350px;
+    border: 1px solid red;
+    border-radius: 15px;
+    margin-left: 70px;
+}
+
+
+

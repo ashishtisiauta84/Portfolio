@@ -1,0 +1,96 @@
+body{
+
+    margin: 0px;
+    padding: 0px;
+    background: black;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    background: #B4D3D9;
+}
+
+.meta{
+
+    background:none ;
+    border:none ;
+    font-weight: bold;
+    font-family: verdana;
+    font-size: 18px;
+    color: darkred;
+    cursor: pointer;
+
+}
+
+h1{
+
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 25px;
+    color: yellow;
+
+
+}
+
+.main{
+
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-top: 20px;
+    background: url(ashish.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+
+h2{
+
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 50px;
+    color: red;
+    margin-left: 50px;
+    margin-bottom: 40px;
+
+}
+
+p{
+    font-size: 40px;
+    font-family: verdana;
+    font-weight: bold;
+    margin-top: 45px;
+margin-left: 40px;
+color: white;
+
+
+
+}
+
+.text{
+
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.csk{
+
+    height: 50px;
+    width: 180px;
+    border: 1px solid darkred;
+    padding: 08px 08px;
+    margin-left: 690px;
+    border-radius: 20px;
+    margin-top: -9px;
+    color: indianred;
+    background: black;
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+
+}
